@@ -12,5 +12,5 @@ I did this app to learn how to combine all the individual technologies I learnt 
 ### Create Activity
 ![Create Todo](./screenshots/createTodo.png?raw=true "Create Todo")
 
-### Edit Activity
-![Edit Todo](./screenshots/editTodo.png?raw=true "Edit Todo")
+### Update Activity
+![Update Todo](./screenshots/editTodo.png?raw=true "Update Todo")
