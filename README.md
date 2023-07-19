@@ -6,11 +6,11 @@ I did this app to learn how to combine all the individual technologies I learnt 
 
 ## Screenshots
 
-### Todos List View
+### Activity View
 ![Todos List View](./screenshots/todoListView.png?raw=true "Todos List View")
 
-### Create Todo
+### Create Activity
 ![Create Todo](./screenshots/createTodo.png?raw=true "Create Todo")
 
-### Edit Todo
+### Edit Activity
 ![Edit Todo](./screenshots/editTodo.png?raw=true "Edit Todo")
